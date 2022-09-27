@@ -21,21 +21,21 @@ const assertArraysEqual = require('./assertArraysEqual');
 
 
 module.exports = {
-  head:   head,
-  tail:   tail,
-  middle: middle,
-  countLetters: countLetters,
-  countOnly: countOnly,
-  findkey: findkey,
-  findKeyByValue: findKeyByValue,
-  letterPositions: letterPositions,
-  map: map,
-  takeUntil: takeUntil,
-  without: without,
-  eqArrays: eqArrays,
-  eqObjects: eqObjects,
-  assertEqual: assertEqual,
-  assertArraysEqual: assertArraysEqual
+  head,
+  tail,
+  middle,
+  countLetters,
+  countOnly,
+  findkey,
+  findKeyByValue,
+  letterPositions,
+  map,
+  takeUntil,
+  without,
+  eqArrays,
+  eqObjects,
+  assertEqual,
+  assertArraysEqual
 
 
 };
