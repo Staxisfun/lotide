@@ -24,3 +24,6 @@ return result
 }
 
 console.log(countLetters("this is a sentence"))
+
+
+module.exports = countLetters

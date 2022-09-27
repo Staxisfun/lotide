@@ -49,3 +49,6 @@ const results3 = map(cats, word => word[0])
 assertArraysEqual(results1, ['g', 'c', 't', 'm', 't'])
 assertArraysEqual(results2, ['k', 's', 'b'])
 assertArraysEqual(results3, ['f', 's', 'b'])
+
+
+module.exports = map

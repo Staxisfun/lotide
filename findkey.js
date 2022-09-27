@@ -44,3 +44,6 @@ assertEqual(findKey({
   "Annie": { adult: true},
   "Sally": { adult: false}
 }, x => x.adult === true), "Annie");
+
+
+module.exports = findKey
