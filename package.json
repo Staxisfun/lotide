@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@staxisfun/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A collection of different functions for a bootcamp project",
   "main": "CountLetters.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Staxisfun/lotide.git"
   },
-  "author": "",
+  "author": "Staxisfun",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Staxisfun/lotide/issues"
